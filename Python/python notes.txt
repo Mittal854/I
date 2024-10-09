@@ -1,0 +1,51 @@
+    STRING
+1 delcrstion
+2 itration
+3 relationship operator
+4 methods--->1 strip()-->remove white spaces form left to right
+		 
+		 2 relpace()-->change old to new
+
+		 3 split()
+
+		 4 join()
+
+		 5 upper()
+
+		 6 lower()
+
+		 7 capitalize()
+
+		 8 islower() , isupper(),is alpha()-->is aphabatically sorted or not , isalnum()-->alpha numaric or not
+
+		 9 count('')
+
+		 10 find()-->return index numbr of character and return -1 index in case of not found
+
+		 11 startswith()-->index value,endswith()-->index value in bool
+
+		 12 partition() 
+
+SETS
+ 	OPERATIONS
+
+	1 INTERSECTION-->&	
+	2 UNION-->|
+	3 ADD
+	4 UPDATE-->FOR MULTIPLE ELEMENTS
+	5 DIFFERENCE--> -
+	6 SYMMWTRIC DIFFERNECE--> ^
+	7ISDIJOINT()-->RETURN IN BOOL-->NO INTERSECTION THEN DISJOINT
+	8ISSUPERSET()-->RETURN IN BOOL-->
+	9ISSUBSET()-->RETURN IN BOOL
+
+
+DICTIONARY
+		OPERATIONS
+		
+		1 ITEMS()
+		2 KEYS()
+		3 VALUES()
+		4 POP()
+
+		5 POPITEM()
